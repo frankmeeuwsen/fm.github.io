@@ -14,3 +14,10 @@ The file ```index.html``` is my minimal personal landing page showing my name, p
 The [CSS](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets) is internal in the ```index.html``` file. This style is usable in many browsers and on mobile screens.
 
 My default profilepicture is blended into a set of [favicons](https://en.m.wikipedia.org/wiki/Favicon) for this landing page using the online generator made by Eduardo Russo at [Faviconit](http://faviconit.com/en).
+
+##Backlog
+
+* Remove table, make more responsive
+* Add icons for social networks using [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* Add links to other sites and pages (like Digging the Digital)
+* Decide where to put everything for once and for all (Medium? Ghost? Jekyll? Wordpress?)
