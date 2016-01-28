@@ -19,6 +19,6 @@ My default profilepicture is blended into a set of [favicons](https://en.m.wikip
 
 * ~~Remove table,~~ make more responsive
 * Make Github issues of this list ;-)
-* Add icons for social networks using [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* ~~Add icons for social networks using [Font Awesome](http://fortawesome.github.io/Font-Awesome/)~~
 * Add links to other sites and pages (like Digging the Digital)
 * Decide where to put everything for once and for all (Medium? Ghost? Jekyll? Wordpress?)
