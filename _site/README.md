@@ -9,7 +9,7 @@ For years I used paid services for a page on my name-domain. I decided to switch
 
 The repository resides as a [Github project](https://github.com/frankmeeuwsen/minimum) with thanks to [Oskar van Rijswijk](https://github.com/ovanrijswijk/ovanrijswijk.github.io) for the inspiration. The repo hosts a webpage on [Github pages](https://pages.github.com/).
 
-The file ```index.html``` is my minimal personal landing page showing my name, profile image and a few links to information from and about me elsewhere on the web. You can make your own any way you want ofcourse.
+The file ```index.html``` is my minimal personal landing page showing my name, profile image and a few links to information from and about me elsewhere on the web.
 
 The [CSS](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets) is internal in the ```index.html``` file. This style is usable in many browsers and on mobile screens.
 
