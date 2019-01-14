@@ -1,0 +1,30 @@
+html {
+  background-color: #fff;
+  font-size: 100%; }
+
+body {
+  font-size: 1.2em;
+  color: #333;
+  font-family: "Georgia", serif;
+  line-height: 1.8em;
+  margin: 5%; }
+
+h1 {
+  font-size: 1.3em;
+  font-weight: 200; }
+
+a {
+  color: #333;
+  word-wrap: break-word;
+  text-decoration: none; }
+  a:hover, a:focus {
+    color: #c0c0c0;
+    text-decoration: underline; }
+
+img {
+  width: 4em;
+  height: 4em; }
+
+.reg {
+  font-size: 40%;
+  font-style: italic; }
