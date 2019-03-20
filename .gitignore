@@ -10,3 +10,4 @@ _site/
 
 # End of https://www.gitignore.io/api/jekyll
 config.codekit3
+node_modules
