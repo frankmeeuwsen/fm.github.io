@@ -6,12 +6,14 @@ title: Over Frank Meeuwsen
 
 ![Avatar Frank](/images/avatar.jpg)Een veteraan in de online industrie. Startups, corporate en de bureauwereld, ik heb ze allemaal gezien en meegemaakt. Ik ben een goede sparringpartner in projecten en vraagstukken rondom de inzet van digitale middelen, de ontwikkelingen in online communicatie en de effecten van technologie op mens en maatschappij.
 
-Ik ben op dit moment beschikbaar voor freelance en interim werk voor maximaal 24 uur per week. Ik kan je helpen bij vraagstukken in je organisatie zoals:
+Ik kan je helpen bij vraagstukken in je organisatie zoals:
 
 * Er verandert veel in digitale technologie, hoe kan mijn organisatie bijblijven zonder de regie te verliezen?
 * Hoe gaan we als organisatie op een menselijke en transparante wijze met digitale technologie om?
 * Wat is de impact van technologie op onze bedrijfscultuur en hoe gaan we hier mee om?
 * Hoe werken we met principes als "privacy by design" en "Time well spent" in onze communicatie-strategie?
+
+Ik ben op dit moment helaas niet beschikbaar voor freelance en interim werk. 
 
 ## Overige publicaties
 Naast mijn eigen blog op [Digging the Digital](https://diggingthedigital.com) ben ik eveneens auteur van
