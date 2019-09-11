@@ -2,7 +2,7 @@
 layout: default
 title: Over Frank Meeuwsen
 ---
-# Wie is die Frank Meeuwsen toch?
+## Wie is die Frank Meeuwsen toch?
 
 ![Avatar Frank](/images/avatar.jpg)Een veteraan in de online industrie. Startups, corporate en de bureauwereld, ik heb ze allemaal gezien en meegemaakt. Ik ben een goede sparringpartner in projecten en vraagstukken rondom de inzet van digitale middelen, de ontwikkelingen in online communicatie en de effecten van technologie op mens en maatschappij.
 
