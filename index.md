@@ -21,13 +21,11 @@ Naast mijn eigen blog op [Digging the Digital][1] ben ik eveneens auteur van
 - [Bloghelden][2], over de geschiedenis van de Nederlandse blogosfeer
 - [Lifehacking met Evernote][3], de Nederlandse gids voor slim gebruik van Evernote.
 - [Lifehacking tips][4], diverse titels op het gebied van slim en moeiteloos leven en werken
-- Ik heb ook nog [een testblog][5]
 
 
 [1]:	https://diggingthedigital.com
 [2]:	https://bloghelden.nl
 [3]:	https://github.com/frankmeeuwsen/Lifehacking-met-Evernote
 [4]:	https://support.vanduurenmedia.nl/Downloads/9789089650818/175%20Lifehackingtips%20met%20klikbare%20links.pdf
-[5]:	https://frankmeeuwsen.xyz/
 
 [image-1]:	/images/avatar.jpg
