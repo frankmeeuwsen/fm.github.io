@@ -2,6 +2,8 @@
 layout: default
 title: Webmention test
 ---
-in reply to: [frank.xyz](https://frankmeeuwsen.xyz/2019/11/03/webmention-op-domein/)
+  <div class="h-entry">
 
-Trying out this guide to sending webmentions
+<p>in reply to: [frank.xyz](https://frankmeeuwsen.xyz/2019/11/03/webmention-op-domein/)</p>
+    <p class="e-content">Trying out this guide to sending webmentions</p>
+  </div>
