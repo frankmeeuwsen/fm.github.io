@@ -21,7 +21,6 @@ Naast mijn eigen blog op [Digging the Digital][1] ben ik eveneens auteur van
 - [Bloghelden][2], over de geschiedenis van de Nederlandse blogosfeer
 - [Lifehacking met Evernote][3], de Nederlandse gids voor slim gebruik van Evernote.
 - [Lifehacking tips][4], diverse titels op het gebied van slim en moeiteloos leven en werken
-- Ik heb [een testsite][5]
 
 
 [1]:	https://diggingthedigital.com
